@@ -1,13 +1,12 @@
-Old-fashion face detection algorith, old-fashion, because the features are extracted by specific definition. This code as solution for ML competition of EESTEC challenge in Ankara 2017 Apr
+Old-fashion face detection algorithm, old-fashion, because the features are extracted by specific definition. This code as solution for ML competition of EESTEC challenge in Ankara 2017 Apr
  
 Pre-requestes:
 
-Codes are in python 2.7
-the used libraries:
-PIL
-tensorflow
-OpenCV
-
+     Codes are in python 2.7
+     the used libraries:
+     PIL
+     tensorflow
+     OpenCV
 
 how to run:
 1- run feature-extraction.py in same folder as train data, to extract features
